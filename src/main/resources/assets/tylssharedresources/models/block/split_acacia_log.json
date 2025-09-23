@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures":{
+    "end": "tylssharedresources:block/split_acacia_log_top",
+    "side": "tylssharedresources:block/split_acacia_log"
+  }
+}

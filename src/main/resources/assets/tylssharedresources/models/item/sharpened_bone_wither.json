@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tylssharedresources:item/sharpened_bone_wither"
+  }
+}
