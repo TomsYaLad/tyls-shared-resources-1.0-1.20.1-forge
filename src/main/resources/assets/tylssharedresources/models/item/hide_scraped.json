@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tylssharedresources:item/hide_scraped"
+    "layer0": "tylssharedresources:item/ph_tyls_sr"
   }
 }
